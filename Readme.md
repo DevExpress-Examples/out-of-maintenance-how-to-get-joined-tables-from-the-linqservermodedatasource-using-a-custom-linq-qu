@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to get joined tables from the LinqServerModeDataSource using a custom LINQ query
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4967/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to get joined tables from the LinqServerModeDataSource by using a custom LINQ query. <br />
